@@ -8,7 +8,7 @@ length = 0
 isStarted = False
 #This somehow detects key presses, I don't know how.
 def on_press(key):
-    #This used to print something.
+    j = 0
     
 def on_release(key):
     global rawMessage, isStarted
